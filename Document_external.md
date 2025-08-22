@@ -5,8 +5,10 @@ Menú interactivo: Factorial y Subsidio de familia
 
 **Autor:**
 FRANCISCO EDUARDO CHAVAJAY COCHE
+
 **CARNET**
 7690-25-13054
+
 **Fecha de creación:**  
 _Agosto 2025_
 **Versión:**
