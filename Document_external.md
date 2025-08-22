@@ -15,7 +15,7 @@ _Agosto 2025_
 **Lenguajes:**
 - C++
 - Python
-- 
+- Pseint(opcional si se desea ejecutar el pseudocodigo original)
 ---
 
 ## Objetivo del programa
