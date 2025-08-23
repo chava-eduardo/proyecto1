@@ -5,7 +5,7 @@ FRANCISCO EDUARDO CHAVAJAY COCHÉ
 ### CARNET:
 7690-25-13054
 
-Este es mi proyecto numero no.1 del curso de algoritmos en la cual se me pide realizar dos programas en donde debe conocerce el factorial de un numero entero y tambien un programa en donde se desea haber el subsidio de una familia con 3 o mas hijos y presentar los enunciados que se solicitan, en la parte de abajo se dejar los enlaces de cada uno de los requisitos para presentar el proyecto
+Este es mi proyecto numero no.1 del curso de algoritmos en la cual se me pide realizar dos programas en donde debe conocerce el factorial de un numero entero y tambien un programa en donde se desea haber el subsidio de una familia con 3 o mas hijos y presentar los enunciados que se solicitan, en la parte de abajo se dejaron los enlaces de cada uno de los requisitos para presentar el proyecto
 
 ## Archivos del proyecto
 - [Pseudocódigo](proyectono1_pseudocodigo.txt)
