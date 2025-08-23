@@ -6,5 +6,5 @@ Este es mi proyecto numero del curso de algoritmos en la cual se me pide realiza
 - [Código en C++](proyectono.1.cpp)
 - [Código en Python](proyectono1.py)
 - [Documentación externa](Document_external.md)
-- ![Diagrama de flujo del Factorial](Factorial.svg)
+- [Diagrama de flujo del Factorial](Factorial.svg)
 
