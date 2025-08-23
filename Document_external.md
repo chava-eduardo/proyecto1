@@ -33,7 +33,9 @@ El menú se repetirá hasta que el usuario decida salir
    - `3` → Salir
 
 2. **Bucle de repetición:**
-   - Ambos programas utilizan un **bucle `while`** (`while(true)` en C++ y `while True` en Python) para repetir el menú hasta que el usuario elija salir.  
+   - Ambos programas utilizan un **bucle `while`** (`while(true)` en C++ y `while True` en Python) para repetir el menú hasta que el usuario elija salir
+   - PSeInt: utiliza Repetir ... Hasta Que opcion=3
+   - En los tres casos, el menú se muestra repetidamente hasta que el usuario elige la opción 3 (Salir).
 
 3. **Validación de entradas:**
    - Si el usuario ingresa un valor no numérico o inválido, se muestra un mensaje de error y se solicita la entrada nuevamente
@@ -41,6 +43,7 @@ El menú se repetirá hasta que el usuario decida salir
 4. **Opción 1 – Factorial:**
    - Solicita un número entero no negativo
    - Calcula el factorial usando un **bucle** (`for` en C++, `while` en Python)
+   - PSeInt: usa un ciclo Para i<-2 Hasta n Con Paso 1 Hacer
    - Muestra el resultado del cálculo
 
 5. **Opción 2 – Subsidio de familia:**
@@ -79,6 +82,7 @@ El menú se repetirá hasta que el usuario decida salir
 ##  Requisitos del sistema
 - **C++**: Compilador compatible con C++11 o superior
 - **Python**: Python 3.x instalado
+- **Peseint**: Instalado en el sistema (cualquier versión reciente).
 
 
 ---
@@ -87,6 +91,7 @@ El menú se repetirá hasta que el usuario decida salir
 - Ambos programas repiten el menú hasta que el usuario elige salir
 - Incluyen validación básica de entradas no numéricas y números negativos
 - El cálculo de **factorial** en C++ puede generar **overflow**(desbordameinto de enteros) con números muy grandes
+- PSeInt: se implementa la lógica con ciclos Para, Si y Repetir.
 - En Python no ocurre overflow porque maneja enteros grandes automáticamente
 - El subsidio aplica únicamente si se tienen **3 o más hijos/as** es decir que si tiene menos de 3 hijos solo se brindara el subsidio
 - El mensaje de salida indica que el programa termino de ejecutarse
