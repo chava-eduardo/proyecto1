@@ -83,15 +83,15 @@ El menú se repetirá hasta que el usuario decida salir
 ##  Requisitos del sistema
 - **C++**: Compilador compatible con C++11 o superior
 - **Python**: Python 3.x instalado
-- Consola o terminal para ejecutar los programas
+
 
 ---
 
 ##  Notas adicionales
 - Ambos programas repiten el menú hasta que el usuario elige salir
 - Incluyen validación básica de entradas no numéricas y números negativos
-- El cálculo de **factorial** en C++ puede generar **overflow** con números muy grandes
+- El cálculo de **factorial** en C++ puede generar **overflow**(desbordameinto de enteros) con números muy grandes
 - En Python no ocurre overflow porque maneja enteros grandes automáticamente
-- El subsidio aplica únicamente si se tienen **3 o más hijos/as**
-- El mensaje de salida no es un saludo o despedida, solo indica que el programa termina
+- El subsidio aplica únicamente si se tienen **3 o más hijos/as** es decir que si tiene menos de 3 hijos solo se brindara el subsidio
+- El mensaje de salida indica que el programa termino de ejecutarse
 
